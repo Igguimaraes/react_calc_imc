@@ -1,6 +1,6 @@
 import { useState } from "react";
 import styles from "./app.module.css";
-import powerImage from "./assets/powered.png";
+// import powerImage from "./assets/powered.png";
 import leftarrowImage from "./assets/leftarrow.png";
 import { levels, calculateImc, Level } from "./helpers/imc";
 import { GridItem } from "./components/GridItem";
